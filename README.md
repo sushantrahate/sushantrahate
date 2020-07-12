@@ -1,1 +1,1 @@
-![image](https://github.com/sushantrahate/sushantrahate/blob/master/family_guy.gif)
+![image](https://github.com/sushantrahate/sushantrahate/blob/master/thinking.gif)
