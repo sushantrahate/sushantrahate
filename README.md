@@ -11,6 +11,4 @@
 <a href=https://dev.to/sushantrahate target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="sushantrahate" height="20" width="20" /></a>
 <a href=https://twitter.com/sushantrahate target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sushantrahate" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/sushantrahate target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sushantrahate" height="20" width="20" /></a>
-<a href=https://fb.com/sushantrahate target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="sushantrahate" height="20" width="20" /></a>
-<a href=https://instagram.com/sushantrahate target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sushantrahate" height="20" width="20" /></a>
 </p>
