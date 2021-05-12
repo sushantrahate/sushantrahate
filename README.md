@@ -5,6 +5,7 @@
 
 - 🌱 I'm currently learning AWS
 
-- 🧬 Side Project: https://tablemaker.app
+- 🧬 Side Project: https://TableMaker.app
 
 - 📫 Reach me at **sushantrahate15@gmail.com**
+Ggg
