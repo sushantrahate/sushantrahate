@@ -2,9 +2,6 @@
 <h3 align="center">A full stack developer from India.</h3>
 
 - 👀 I'm interested in JavaScript, AWS, Web Securities.
-
 - 🌱 I'm currently learning AWS
-
-- 🧬 Side Project: https://TableMaker.app
-
+- 🧬 Side Project: https://TableMaker.app, [Crypto Board](https://sushantrahate.github.io/crypto-board/)
 - 📫 Reach me at **sushantrahate15@gmail.com**
