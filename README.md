@@ -3,5 +3,5 @@
 
 - 👀 I'm interested in JavaScript, AWS, Web Securities.
 - 🌱 I'm currently learning AWS
-- 🧬 Side Project: https://TableMaker.app, [Crypto Board](https://sushantrahate.github.io/crypto-board/)
+- 🧬 Side Projects: https://TableMaker.app, [Crypto Board](https://sushantrahate.github.io/crypto-board/)
 - 📫 Reach me at **sushantrahate15@gmail.com**
