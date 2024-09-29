@@ -6,5 +6,5 @@
 - 🧬 Side Projects: <a href="https://data-grid-online.netlify.app" target="_blank">Data Grid</a> | <a href="https://carrom-scoreboard.vercel.app/" target="_blank">Carrom Scoreboard</a>
 - 🌏 Blog: <a href="https://mycfiles.blogspot.com" target="_blank">MyCFiles</a>
 - 📫 Reach me at **sushantrahate15@gmail.com**
-- 🗺️ Mumbai, IN
+- 🗺️ Mumbai, India
 - 👶 New Dad
