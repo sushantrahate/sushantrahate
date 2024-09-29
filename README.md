@@ -6,3 +6,4 @@
 - 🧬 Side Projects: <a href="https://data-grid-online.netlify.app" target="_blank">Data Grid</a> | <a href="https://carrom-scoreboard.vercel.app/" target="_blank">Carrom Scoreboard</a>
 - 📫 Reach me at **sushantrahate15@gmail.com**
 - 🌏 Blog: <a href="https://mycfiles.blogspot.com" target="_blank">MyCFiles</a>
+- New Dad 👶
