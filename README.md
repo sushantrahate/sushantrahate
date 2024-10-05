@@ -7,4 +7,3 @@
 - 🌏 Blog: <a href="https://mycfiles.blogspot.com" target="_blank">MyCFiles</a>
 - 📫 Reach me at **sushantrahate15@gmail.com**
 - 🗺️ Mumbai, India
-- 👶 New Dad
