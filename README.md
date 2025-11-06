@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sushant Rahate</h1>
-<h3 align="center">A full stack developer from India.</h3>
+<h3 align="center">Full-stack developer • 10+ years building for the web</h3>
 
-- 👀 I'm interested in JavaScript, AWS, Web Securities.
-- 🌱 I'm currently learning AWS
+- 👀 Focused on JavaScript, AWS & Web Security
+- 🌱 Currently exploring AWS Cloud & DevOps
 - 🧬 Side Projects: <a href="https://data-grid-online.netlify.app" target="_blank">Data Grid</a> | <a href="https://carrom-scoreboard.vercel.app/" target="_blank">Carrom Scoreboard</a>
 - 🌏 Blog: <a href="https://mycfiles.blogspot.com" target="_blank">MyCFiles</a>
 - 📫 Reach me at **sushantrahate15@gmail.com**
